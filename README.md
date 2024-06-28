@@ -2,7 +2,7 @@
 <h3 align="center"> Coder | Web Dev | Frontend</h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Itsrajeev123&color=0e75b6)
-<img align="right" width="400" src="[https://media2.giphy.com/media/HVu0tUsYlF4GOc3SNv/giphy.gif?cid=ecf05e474ifqamwjp53snpg8pwbf5mbxckkcdghsh427dmyi&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media1.tenor.com/m/IYZxiAncud8AAAAC/m4kktruck-getintoitya.gif)">
+<img align="right" width="500" src="[https://media2.giphy.com/media/HVu0tUsYlF4GOc3SNv/giphy.gif?cid=ecf05e474ifqamwjp53snpg8pwbf5mbxckkcdghsh427dmyi&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media1.tenor.com/m/IYZxiAncud8AAAAC/m4kktruck-getintoitya.gif)">
 <br>
 🌱 I’m currently learning DSA in C++
 
