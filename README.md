@@ -1,8 +1,8 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Rajeev Mishra</h1>
+![image](https://github.com/Itsrajeev123/Itsrajeev123/assets/113230206/a7a75850-4a68-473d-a763-b8320da5293b)<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Rajeev Mishra</h1>
 <h3 align="center"> Coder | Web Dev | Frontend</h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Itsrajeev123&color=0e75b6)
-<img align="right" width="400" src="https://media2.giphy.com/media/HVu0tUsYlF4GOc3SNv/giphy.gif?cid=ecf05e474ifqamwjp53snpg8pwbf5mbxckkcdghsh427dmyi&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" width="400" src="[https://media2.giphy.com/media/HVu0tUsYlF4GOc3SNv/giphy.gif?cid=ecf05e474ifqamwjp53snpg8pwbf5mbxckkcdghsh427dmyi&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media1.tenor.com/m/IYZxiAncud8AAAAC/m4kktruck-getintoitya.gif)">
 <br>
 🌱 I’m currently learning DSA in C++
 
