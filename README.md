@@ -4,9 +4,8 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=Itsrajeev123&color=0e75b6)
 <img align="right" length="100" width="150" src="https://media1.tenor.com/m/IYZxiAncud8AAAAC/m4kktruck-getintoitya.gif">
 
-🌱 I’m currently learning DSA in C++
+🌱  currently boosting DSA in C++
 
-💬 Ask me about Data Structures, and Content Creation
 
 📫 How to reach me mishrarajeev497@gmail.com
 
