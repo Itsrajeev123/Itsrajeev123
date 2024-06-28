@@ -3,7 +3,7 @@
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Itsrajeev123&color=0e75b6)
 <img align="right" length="300" width="300" src="https://media1.tenor.com/m/IYZxiAncud8AAAAC/m4kktruck-getintoitya.gif">
-<br>
+
 🌱 I’m currently learning DSA in C++
 
 💬 Ask me about Data Structures, and Content Creation
