@@ -2,7 +2,7 @@
 <h3 align="center"> Coder | Web Dev | Frontend</h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Itsrajeev123&color=0e75b6)
-<img align="right" length="50" width="200" src="https://media1.tenor.com/m/IYZxiAncud8AAAAC/m4kktruck-getintoitya.gif">
+<img align="right" length="30" width="100" src="https://media1.tenor.com/m/IYZxiAncud8AAAAC/m4kktruck-getintoitya.gif">
 
 🌱 I’m currently learning DSA in C++
 
