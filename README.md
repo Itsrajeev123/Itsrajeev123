@@ -3,6 +3,7 @@
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Itsrajeev123&color=0e75b6)
 <img align="right" width="400" src="https://media2.giphy.com/media/HVu0tUsYlF4GOc3SNv/giphy.gif?cid=ecf05e474ifqamwjp53snpg8pwbf5mbxckkcdghsh427dmyi&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<br>
 🌱 I’m currently learning DSA in C++
 
 💬 Ask me about Data Structures, and Content Creation
