@@ -7,7 +7,7 @@
 🌱  currently boosting DSA in C++
 
 
-📫 How to reach me mishrarajeev497@gmail.com
+📫 Way to reach me : mishrarajeev497@gmail.com
 
 <br>
 
