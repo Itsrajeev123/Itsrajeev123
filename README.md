@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Rajeev Mishra</h1>
-<h3 align="center"> Coder | Web Dev | Frontend</h3>
+<h3 align="center"> Student</h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Itsrajeev123&color=0e75b6)
 <img align="right" length="100" width="120" src="https://media1.tenor.com/m/IYZxiAncud8AAAAC/m4kktruck-getintoitya.gif">
