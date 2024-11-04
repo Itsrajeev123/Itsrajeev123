@@ -18,7 +18,6 @@
   </a>
 </p>
 
-<br>
 
 ## Connect with me  
 <div align="center">
