@@ -1,10 +1,10 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Rajeev Mishra</h1>
-<h3 align="center"> Student</h3>
+<h3 align="center">Odoo Techno-Functional Consultant</h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Itsrajeev123&color=0e75b6)
 <img align="right" length="100" width="120" src="https://media1.tenor.com/m/IYZxiAncud8AAAAC/m4kktruck-getintoitya.gif">
 
-🌱  currently boosting DSA in C++
+🌱  Actively working hands-on with Odoo’s technical stack on a daily basis, exploring internals, customizations, and real-world problem solving.
 
 
 📫 Way to reach me : mishrarajeev497@gmail.com
