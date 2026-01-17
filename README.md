@@ -14,7 +14,7 @@
 ## LANGUAGES & TOOLS
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,c,cpp,css,discord,express,html,java,js,jquery,linux,mongodb,mysql,netlify,nodejs,ps,postman,py,react,vercel,vscode,wordpress" />
+    <img src="https://skillicons.dev/icons?i=git,github,bootstrap,c,cpp,css,discord,express,html,java,js,mongodb,mysql,netlify,nodejs,ps,postman,py,react,vercel,vscode,wordpress,odoo" />
   </a>
 </p>
 
@@ -60,7 +60,5 @@
 
 
 <h4>⌚ B.Tech at KCC Institute of Technology and Management ('25), Greater Noida </h4>
-<h4>🏆 12th from Nilgiri Hills Public School, Noida </h4>
-
 
 <img height="120" alt="Thanks for visiting my profile, Happy Coding" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
